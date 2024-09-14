@@ -1,4 +1,4 @@
-# Implementing a Monte Carlo Simulation in Haskell User Guide
+# Monte Carlo Simulation in Haskell User Guide
 Hello this is a guide on how to successfully run our project's program please read the entire document, skipping sections only when you already know that they apply to you. This installation process was verified on a blank Windows 10 machine that had nothing related installed on it. 
 
 # Install Haskell (with Stack and Cabal)
